@@ -1,8 +1,8 @@
 {
     "name": "twicy",
     "displayName": "TwiCy",
-    "description": "A theme",
-    "version": "0.0.1",
+    "description": "A \"Twilight Cyanide\" inspired theme for VS Code",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.64.0"
     },
@@ -13,7 +13,7 @@
 	},
     "repository": {
 		"type": "git",
-		"url": "https://github.com/edverillo/twicy.git"
+		"url": "https://github.com/edverillo/TwiCy.git"
 	},
     "categories": [
         "Themes"
