@@ -1,2 +1,2 @@
 # TwiCy
-## A Twilight Cyanide based theme
+## A "Twilight Cyanide" inspired theme for VS Code
