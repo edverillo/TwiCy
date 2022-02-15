@@ -1,0 +1,15 @@
+{
+	"tokenColors": "./twicy.tmTheme",
+	"colors": {
+		"editor.background": "#0a0a0a",
+		"editorCursor.foreground": "#F18260",
+		"editor.foreground": "#F1F1F1",
+		"editorWhitespace.foreground": "#F18260",
+		"editor.lineHighlightBackground": "#232323",
+		"editor.selectionBackground": "#4C4C4C",
+		"editor.inactiveSelectionBackground": "#3C3C3C",
+		"editorIndentGuide.background": "#F1826025",
+		"statusBar.background": "#4C4C4C"
+	},
+	"name": "TwiCy"
+}

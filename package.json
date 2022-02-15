@@ -1,0 +1,30 @@
+{
+    "name": "twicy",
+    "displayName": "TwiCy",
+    "description": "A theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "author": {
+		"name": "Ed",
+		"email": "ed@0xed.io",
+		"url": "https://0xed.io"
+	},
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/edverillo/twicy.git"
+	},
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "TwiCy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/TwiCy-color-theme.json"
+            }
+        ]
+    }
+}
