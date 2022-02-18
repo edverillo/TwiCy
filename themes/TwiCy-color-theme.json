@@ -9,7 +9,12 @@
 		"editor.selectionBackground": "#4C4C4C",
 		"editor.inactiveSelectionBackground": "#3C3C3C",
 		"editorIndentGuide.background": "#F1826025",
-		"statusBar.background": "#4C4C4C"
+		"statusBar.background" : "#1A1A1A",
+    "statusBar.foreground" : "#727272",
+    "statusBar.noFolderBackground" : "#212121",
+    "statusBar.debuggingBackground": "#263238",
+    "badge.background":"#ff0000",
+    "activityBarBadge.background": "#ff0000"
 	},
 	"name": "TwiCy"
 }
